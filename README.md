@@ -1,3 +1,7 @@
 # rpc-framework
 
-rpc框架
+A small and simple implement of roc framework.
+
+
+
+\> 一个轻量级RPC框架Demo
