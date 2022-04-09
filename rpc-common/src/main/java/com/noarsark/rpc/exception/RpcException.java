@@ -3,6 +3,7 @@ package com.noarsark.rpc.exception;
 import com.noarsark.rpc.enumeration.RpcError;
 
 /**
+ * RPC调用异常
  * @author noarsark
  */
 public class RpcException extends RuntimeException{

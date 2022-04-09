@@ -1,7 +1,6 @@
 package com.noarsark.rpc.client;
 
 import com.noarsark.rpc.entity.RpcRequest;
-import com.noarsark.rpc.entity.RpcResponse;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
