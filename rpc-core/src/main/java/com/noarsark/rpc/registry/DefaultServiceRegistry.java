@@ -37,6 +37,11 @@ public class DefaultServiceRegistry implements ServiceRegistry {
         logger.info("向接口: {} 注册服务: {}", interfaces, serviceName);
     }
 
+    /**
+     * 重写
+     * @param serviceName 服务名称
+     * @return
+     */
     @Override
     public synchronized Object getService(String serviceName) {
         Object service = serviceMap.get(serviceName);
